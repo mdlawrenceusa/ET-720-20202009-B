@@ -17,6 +17,8 @@ import { MyResumeComponent } from './my-resume/my-resume.component';
     RouterModule.forRoot([
       { path: '', component: ProductListComponent },
       { path: 'products/:productId', component: ProductDetailsComponent },
+          { path: 'resume', component: MyResumeComponent },
+
     ])
   ],
   declarations: [
