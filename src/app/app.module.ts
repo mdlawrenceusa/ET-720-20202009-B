@@ -15,9 +15,9 @@ import { MyResumeComponent } from './my-resume/my-resume.component';
     BrowserModule,
     ReactiveFormsModule,
     RouterModule.forRoot([
-      { path: '', component: ProductListComponent },
-      { path: 'products/:productId', component: ProductDetailsComponent },
-          { path: 'resume', component: MyResumeComponent },
+      { path: 'tutorial', component: ProductListComponent },
+      { path: 'tutorial/products/:productId', component: ProductDetailsComponent },
+      { path: '', component: MyResumeComponent },
 
     ])
   ],
