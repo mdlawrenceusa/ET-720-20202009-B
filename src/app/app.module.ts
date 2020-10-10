@@ -9,6 +9,8 @@ import { ProductListComponent } from './product-list/product-list.component';
 import { ProductAlertsComponent } from './product-alerts/product-alerts.component';
 import { ProductDetailsComponent } from './product-details/product-details.component';
 import { MyResumeComponent } from './my-resume/my-resume.component';
+import { ResumeTopBarComponent } from './my-resume/resume-top-bar/resume-top-bar.component';
+import { ResumeProfileComponent } from './my-resume/resume-profile/resume-profile.component';
 
 @NgModule({
   imports: [
@@ -27,7 +29,9 @@ import { MyResumeComponent } from './my-resume/my-resume.component';
     ProductListComponent,
     ProductAlertsComponent,
     ProductDetailsComponent,
-    MyResumeComponent
+    MyResumeComponent,
+    ResumeTopBarComponent,
+    ResumeProfileComponent
   ],
   bootstrap: [ AppComponent ]
 })
