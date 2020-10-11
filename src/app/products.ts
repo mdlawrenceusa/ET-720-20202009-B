@@ -22,6 +22,7 @@ export const r1 = {
   "lastName": "Doe",
   "isAlive": true,
   "age": 27,
+  "profession": "Designer",
   "address": {
     "streetAddress": "21 2nd Street",
     "city": "London",
