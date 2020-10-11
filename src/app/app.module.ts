@@ -9,7 +9,6 @@ import { ProductListComponent } from './product-list/product-list.component';
 import { ProductAlertsComponent } from './product-alerts/product-alerts.component';
 import { ProductDetailsComponent } from './product-details/product-details.component';
 import { MyResumeComponent } from './my-resume/my-resume.component';
-import { ResumeTopBarComponent } from './my-resume/resume-top-bar/resume-top-bar.component';
 import { ResumeProfileComponent } from './my-resume/resume-profile/resume-profile.component';
 import { ResumeWorkExperienceComponent } from './my-resume/resume-work-experience/resume-work-experience.component';
 import { ResumeEducationComponent } from './my-resume/resume-education/resume-education.component';
@@ -33,7 +32,6 @@ import { ResumeFooterComponent } from './my-resume/resume-footer/resume-footer.c
     ProductAlertsComponent,
     ProductDetailsComponent,
     MyResumeComponent,
-    ResumeTopBarComponent,
     ResumeProfileComponent,
     ResumeWorkExperienceComponent,
     ResumeEducationComponent,
