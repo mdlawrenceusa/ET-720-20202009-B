@@ -21,7 +21,8 @@ export const r1 = {
   "firstName": "Jane",
   "lastName": "Doe",
   "isAlive": true,
-  "age": "90%",
+  "age": 27,
+  "photo": "https://www.w3schools.com/w3images/avatar_hat.jpg",
   "profession": "Designer",
   "address": {
     "streetAddress": "21 2nd Street",
