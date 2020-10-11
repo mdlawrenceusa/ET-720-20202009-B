@@ -21,7 +21,7 @@ export const r1 = {
   "firstName": "Jane",
   "lastName": "Doe",
   "isAlive": true,
-  "age": 27,
+  "age": "90%",
   "profession": "Designer",
   "address": {
     "streetAddress": "21 2nd Street",
