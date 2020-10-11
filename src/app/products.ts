@@ -18,8 +18,8 @@ export const products = [
 
 export const r1 = {
   "profile":{
-  "firstName": "John",
-  "lastName": "Smith",
+  "firstName": "Jane",
+  "lastName": "Doe",
   "isAlive": true,
   "age": 27,
   "address": {
