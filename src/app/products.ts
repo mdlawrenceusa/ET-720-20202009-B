@@ -41,7 +41,22 @@ export const r1 = {
       "number": "646 555-4567"
     }
   ],
-
+"languages":[
+	{
+		"language": "English",
+		"level": "100%"
+	},
+	
+		{
+		"language": "Spanish",
+		"level": "50%"
+	},
+		{
+		"language": "German",
+		"level": "25%"
+	}
+	
+	],
 
 "skills":[
 	{
@@ -63,7 +78,7 @@ export const r1 = {
 		"level": "50%"
 	}
 	],
-  
+
   },
   
   
