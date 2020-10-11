@@ -41,6 +41,29 @@ export const r1 = {
       "number": "646 555-4567"
     }
   ],
+
+
+"skills":[
+	{
+		"skill": "Adobe Photoshop",
+		"level": "90%"
+	},
+	
+		{
+		"skill": "Photography",
+		"level": "80%"
+	},
+		{
+		"skill": "Illustrator",
+		"level": "75%"
+	},
+	
+		{
+		"skill": "Media",
+		"level": "50%"
+	}
+	],
+  
   },
   
   
