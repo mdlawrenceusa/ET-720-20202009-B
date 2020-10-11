@@ -28,7 +28,8 @@ export const r1 = {
     "city": "London",
     "state": "NY",
     "postalCode": "10021-3100",
-    "country": "UK"
+    "country": "UK",
+    "email": "ex@mail.com"
   },
   "phoneNumbers": [
     {
