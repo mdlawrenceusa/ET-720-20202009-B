@@ -24,9 +24,10 @@ export const r1 = {
   "age": 27,
   "address": {
     "streetAddress": "21 2nd Street",
-    "city": "New York",
+    "city": "London",
     "state": "NY",
-    "postalCode": "10021-3100"
+    "postalCode": "10021-3100",
+    "country": "UK"
   },
   "phoneNumbers": [
     {
