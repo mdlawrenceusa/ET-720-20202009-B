@@ -8,7 +8,7 @@ import { r1 } from '../products';
 })
 export class MyResumeComponent implements OnInit {
 profile = r1.profile;
-workExpetience = r1.workExperience ;
+workExpeience = r1.workExperience ;
 education = r1.education ;
   constructor() { }
 
