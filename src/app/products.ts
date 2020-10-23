@@ -21,17 +21,17 @@ export const products = [
 export const r1 = {
   "profile":{
   "firstName": "Jane",
-  "lastName": "Doe",
+  "lastName": "Smith",
   "isAlive": true,
   "age": 27,
   "photo": "https://www.w3schools.com/w3images/avatar_hat.jpg",
   "profession": "Designer",
   "address": {
     "streetAddress": "21 2nd Street",
-    "city": "London",
+    "city": "New York ",
     "state": "NY",
     "postalCode": "10021-3100",
-    "country": "UK",
+    "country": "USA",
     "email": "ex@mail.com"
   },
   "phoneNumbers": [
@@ -64,7 +64,7 @@ export const r1 = {
 "skills":[
 	{
 		"skill": "Adobe Photoshop",
-		"level": "90%"
+		"level": "95%"
 	},
 	
 		{
@@ -73,7 +73,7 @@ export const r1 = {
 	},
 		{
 		"skill": "Illustrator",
-		"level": "75%"
+		"level": "85%"
 	},
 	
 		{
